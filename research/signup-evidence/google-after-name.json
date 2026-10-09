@@ -1,0 +1,53 @@
+{
+  "provider": "google",
+  "stage": "after-name",
+  "url_path": "https://accounts.google.com/lifecycle/steps/signup/birthdaygender",
+  "title": "Basic information Enter your birthday and gender",
+  "text": "Loading\nBasic information\nEnter your birthday and gender\nMonth\nDay\nYear\nGender\nWhy we ask for your birthday and gender\nNext\nEnglish (United States)\nHelp\nPrivacy\nTerms\nBasic information Enter your birthday and gender",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "tel",
+      "name": "day",
+      "id": "day",
+      "placeholder": "",
+      "label": "Day",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "tel",
+      "name": "year",
+      "id": "year",
+      "placeholder": "",
+      "label": "Year",
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Why we ask for your birthday and gender"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Next"
+    }
+  ],
+  "frames": [
+    "accounts.google.com/lifecycle/steps/signup/birthdaygender",
+    "accounts.google.com/_/bscframe",
+    "accounts.google.com/_/bscframe",
+    "www.google.com/recaptcha/enterprise/anchor",
+    "blank",
+    "blank"
+  ]
+}

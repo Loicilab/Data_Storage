@@ -1,0 +1,234 @@
+[
+  {
+    "provider": "outlook-mail",
+    "requested_url": "https://signup.live.com/",
+    "url": "https://signup.live.com/?lic=1",
+    "status": 200,
+    "title": "Create your Microsoft account",
+    "text": "Create your Microsoft account\nEnter your email address.\nEmail\nNext\nAlready have an account? Sign in\nHelp and feedback\nTerms of use\nPrivacy and cookies\nUse private browsing if this is not your device. Learn more",
+    "fields": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "email",
+        "id": "floatingLabelInput4",
+        "placeholder": "",
+        "label": "Email",
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Next"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Help and feedback"
+      }
+    ],
+    "frames": [
+      "https://signup.live.com/?lic=1",
+      "https://fpt.live.com/?session_id=8bcefaa76e114cec9a9278f22d8b70e4&CustomerId=33e01921-4d64-4f8c-a055-5bdaffd5e33d&PageId=SU",
+      "https://df.cfp.microsoft.com/Clear.HTML?ctx=Ls1.0&wl=False&session_id=8bcefaa76e114cec9a9278f22d8b70e4&id=d50c69cf-2463-31f7-bbc6-89614aac5337&w=8DF261DFFAEB404&tkt=&CustomerId=33e01921-4d64-4f8c-a055-5bdaffd5e33d",
+      "https://iframe.hsprotect.net/index.html?app_id=PXzC5j78di&session_id=8bcefaa7-6e11-4cec-9a92-78f22d8b70e4",
+      "about:blank",
+      "https://crcldu.com/bd/sync.html?v=1791561000000#1791561441966|1"
+    ]
+  },
+  {
+    "provider": "proton-mail",
+    "requested_url": "https://account.proton.me/signup",
+    "url": "https://account.proton.me/signup",
+    "status": 200,
+    "title": "Create a Proton Account | Take back your privacy",
+    "text": "For individuals\nFor businesses\nEnglish\nAn encrypted email service that puts your privacy first\nEnd-to-end encrypted\nOpen source\nProtected by Swiss privacy laws\n1\nSelect your plan\n1 month\n12 months\nLoading\nFree\nUp to 1 GB Mail storage\n1 email address\nLoading\nMail Plus\nMail\nCalendar\n15 GB storage\n1 custom email domain\n10 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nProton Calendar\nLoading\nRecommended\nProton Unlimited\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n500 GB storage\n3 custom email domains\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n15 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nLoading\nProton Family\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n3 TB storage\n3 custom email domains\nUp to 6 users\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n90 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nCHF\n30-day money-back guarantee\n2\nCreate your Proton account\nUse your current email instead\nMore info: You will need a Proton address to use Proton Mail and Proton Calendar\nPassword\nAlready have an account? Sign in\nProton benefits\nEnd-to-end encryption\nProtected by Swiss privacy laws\nOpen source and audited\nWorks on all devices\nIntegrated email, calendar, file storage, password manager, and VPN\nJoin over 100 million people who have chosen Proton to stay safe online\n3\nCheckout\nCredit/debit card\nPayPal\nGoogle Pay\nLoading\nLoading\nSummary\nProton Unlimited\n1 year\n500 GB storage\nProton Mail\nProton Calendar\nProton Drive\nProton VPN\nProton Pass\nProton Wallet\nTotal for 12 months\n*Subscription auto-renews every 12 months. Your next billing date is October 9th, 2027. You can cancel at any time. Renewal pricing subject to change according to terms and conditions.\nProton. Privacy by default.\nNeed help?",
+    "fields": [
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "label_0",
+        "placeholder": null,
+        "label": null,
+        "text": "For individuals"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "label_1",
+        "placeholder": null,
+        "label": null,
+        "text": "For businesses"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "English"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Billing cycle: 1 month",
+        "text": "1 month"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Billing cycle: 12 months",
+        "text": "12 months"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Free\nUp to 1 GB Mail storage\n1 email address"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Mail Plus\nMail\nCalendar\n15 GB storage\n1 custom email domain\n10 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nProton Calendar"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Recommended\nProton Unlimited\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n500 GB storage\n3 custom email domains\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n15 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Proton Family\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n3 TB storage\n3 custom email domains\nUp to 6 users\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n90 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "CHF",
+        "text": "CHF"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "existing-email-button",
+        "placeholder": null,
+        "label": null,
+        "text": "Use your current email instead"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "More info: You will need a Proton address to use Proton Mail and Proton Calendar"
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "password",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Sign in"
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "value",
+        "id": "chargebee-card",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "value",
+        "id": "chargebee-paypal",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "value",
+        "id": "google-pay",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Need help?"
+      }
+    ],
+    "frames": [
+      "https://account.proton.me/signup",
+      "https://account-api.proton.me/challenge/v4/html?Type=0&Name=unauth&Lang=en-US&Dir=ltr",
+      "https://account-api.proton.me/challenge/v4/html?Type=0&Name=email&Lang=en-US&Dir=ltr",
+      "https://account-api.proton.me/payments/v5/forms/cards"
+    ]
+  }
+]

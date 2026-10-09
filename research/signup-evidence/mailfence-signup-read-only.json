@@ -1,0 +1,70 @@
+{
+  "checked_on": "2026-10-09",
+  "url": "https://mailfence.com/registration/",
+  "text": "English\nEnglish (UK)\nFran\u00e7ais\nNederlands\nPortugu\u00eas\nEspa\u00f1ol\nItaliano\nDeutsch\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\nEnglish\nSign up\n@mailfence.com\nAt least 10 characters with letters, numbers and symbols\nI have read and I accept the Terms of Use, the Privacy policy\nI am 16 years or older\nSign up",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "maxlength": 255,
+      "placeholder": "First name",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "maxlength": 255,
+      "placeholder": "Last name",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "login",
+      "id": "",
+      "maxlength": 40,
+      "placeholder": "Username",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "password",
+      "id": "",
+      "maxlength": 255,
+      "placeholder": "Password",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "",
+      "id": "",
+      "maxlength": 255,
+      "placeholder": "Confirm",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "maxlength": -1,
+      "placeholder": "",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "maxlength": -1,
+      "placeholder": "",
+      "text": null
+    }
+  ]
+}

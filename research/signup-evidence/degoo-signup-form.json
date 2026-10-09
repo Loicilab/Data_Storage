@@ -1,0 +1,39 @@
+{
+  "provider": "degoo",
+  "stage": "signup-form",
+  "url_path": "https://app.degoo.com/login",
+  "title": "Degoo Cloud",
+  "text": "Life's Best Memories\n.\nLet's get started!\n\nCreate account\n\nOr\n\nSign up with Google\n\nLog in\n\nBy clicking Sign up you agree to Degoo terms.",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "username",
+      "id": "username",
+      "placeholder": "Email",
+      "label": "login-username",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "password",
+      "id": "password",
+      "placeholder": "Password",
+      "label": "login-password",
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Create account"
+    }
+  ],
+  "frames": [
+    "app.degoo.com/login"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "provider": "degoo",
+  "stage": "after-submission",
+  "url_path": "https://app.degoo.com/login",
+  "title": "Degoo Cloud",
+  "text": "Life's Best Memories\n.\nWe are logging you in now!",
+  "fields": [],
+  "frames": [
+    "app.degoo.com/login"
+  ]
+}

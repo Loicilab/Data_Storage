@@ -1,0 +1,75 @@
+{
+  "provider": "filen",
+  "stage": "after-submission",
+  "url_path": "https://app.filen.io/",
+  "title": "Filen",
+  "text": "Filen\n\nCreate an account\n\nEnter your email and password below to create an account\n\nLength\n\nUppercase characters\n\nLowercase characters\n\nSpecial characters\n\nLogin\nResend confirmation email\n\nYou are not eligible for 10 GiB of free storage.\n\nLearn more\nTerms of Service\nPrivacy\nAccount created\n\nWe have sent a confirmation email to cloudtest6b624556f5a360@maxxspace.com. Please click the link in the email to confirm you registration. Make sure to also check your spam folder.\n\nCancel\nContinue",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "",
+      "id": "email",
+      "placeholder": "me@example.com",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "",
+      "id": "password",
+      "placeholder": "Password",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "",
+      "id": "confirmPassword",
+      "placeholder": "Confirm password",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Login"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Cancel"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Continue"
+    }
+  ],
+  "frames": [
+    "app.filen.io/"
+  ]
+}

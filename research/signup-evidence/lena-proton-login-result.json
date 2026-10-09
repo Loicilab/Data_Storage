@@ -1,0 +1,104 @@
+{
+  "provider": "lena-proton",
+  "stage": "login-result",
+  "url_path": "https://account.proton.me/mail",
+  "title": "Proton Mail: Sign-in",
+  "text": "English\nSign in\nTo continue to Proton Mail\nEmail or username\nPassword\nKeep me signed in\nRecommended on trusted devices. Why?\nSign in\nNew to Proton? Create account\nTrouble signing in?\nProton. Privacy by default.\nTerms|Privacy policy|Version 5.0.426.0\nGet help from Lumo\nAccount suspended\nThis account has been suspended by an automated anti-abuse system. Learn more at https://proton.me/blog/anti-abuse-account-security. If you believe this is in error, please contact us at https://proton.me/support/appeal-abuse.\nClose",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "English"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "username",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "",
+      "id": "password",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "id": "staySignedIn",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Sign in"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Trouble signing in?"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Get help from Lumo"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Close"
+    }
+  ],
+  "frames": [
+    "account.proton.me/mail",
+    "account-api.proton.me/challenge/v4/html",
+    "account-api.proton.me/challenge/v5/html"
+  ]
+}

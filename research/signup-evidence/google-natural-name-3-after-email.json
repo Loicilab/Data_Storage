@@ -1,0 +1,44 @@
+{
+  "provider": "google-natural-name-3",
+  "stage": "after-email",
+  "url_path": "https://accounts.google.com/lifecycle/steps/signup/verifyemail",
+  "title": "Verify your email address",
+  "text": "Loading\nVerify your email address\nEnter the code we sent to marafeld7492@maxxspace.com. Check your spam folder if you don't see an email.\nEnter code\nNext\nBack\nEnglish (United States)\nHelp\nPrivacy\nTerms\nVerify your email address\nMaximum of 4 characters entered",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "tel",
+      "name": "code",
+      "id": "code",
+      "placeholder": "",
+      "label": "Enter code",
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Next"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Back"
+    }
+  ],
+  "frames": [
+    "accounts.google.com/lifecycle/steps/signup/verifyemail",
+    "accounts.google.com/_/bscframe",
+    "accounts.google.com/_/bscframe",
+    "www.google.com/recaptcha/enterprise/anchor",
+    "blank",
+    "blank"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "provider": "google",
+  "stage": "after-birthday",
+  "url_path": "https://accounts.google.com/lifecycle/steps/signup/username",
+  "title": "Create an email address Create a Gmail address for signing in to your Google Account",
+  "text": "Loading\nCreate an email address\nCreate a Gmail address for signing in to your Google Account\ncloudintegrationtest343@gmail.com\ncloudintegrationtest3@gmail.com\nCreate your own Gmail address\nNext\nUse your existing email\nEnglish (United States)\nHelp\nPrivacy\nTerms\nCreate an email address Create a Gmail address for signing in to your Google Account\nMaximum of 4 characters entered",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "usernameRadio",
+      "id": "",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "usernameRadio",
+      "id": "",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "usernameRadio",
+      "id": "",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Next"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Use your existing email"
+    }
+  ],
+  "frames": [
+    "accounts.google.com/lifecycle/steps/signup/username",
+    "accounts.google.com/_/bscframe",
+    "accounts.google.com/_/bscframe",
+    "www.google.com/recaptcha/enterprise/anchor",
+    "blank",
+    "blank"
+  ]
+}

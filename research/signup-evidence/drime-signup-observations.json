@@ -1,0 +1,63 @@
+[
+  {
+    "provider": "drime",
+    "requested_url": "https://app.drime.cloud/register",
+    "url": "https://app.drime.cloud/login",
+    "status": 200,
+    "title": "Sign in - Drime",
+    "text": "We value your privacy\n\nUnlike many companies, we respect your privacy by using only essential cookies. These cookies help us understand your online journey and enhance your experience without compromising your data. We do not track you for unnecessary advertising purposes.\n\nCustomize\nReject All\nAccept All\nWelcome to Drime\n\nEnter your email to get started. We'll automatically detect if you already have an account or not.\n\nContinue\n\nBy continuing, you agree to our Terms of Service and Privacy & Cookie Policy.\n\n\u00a9 2026 Drime",
+    "fields": [
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Customize",
+        "text": "Customize"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Reject All",
+        "text": "Reject All"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Accept All",
+        "text": "Accept All"
+      },
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "email",
+        "id": ":r1:",
+        "placeholder": "Email",
+        "label": "Email",
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Continue"
+      }
+    ],
+    "frames": [
+      "https://app.drime.cloud/login",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Let4LsrAAAAAILTG576pUMMy8OBpHMaJvgu5ads&co=aHR0cHM6Ly9hcHAuZHJpbWUuY2xvdWQ6NDQz&hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz&size=invisible&anchor-ms=20000&execute-ms=30000&cb=9hepvm52kxl5",
+      "about:blank",
+      "about:blank"
+    ]
+  }
+]

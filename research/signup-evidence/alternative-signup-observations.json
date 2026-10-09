@@ -1,0 +1,98 @@
+[
+  {
+    "provider": "degoo-app",
+    "requested_url": "https://app.degoo.com",
+    "url": "https://app.degoo.com/login",
+    "status": 200,
+    "title": "Degoo Cloud",
+    "text": "Life's Best Memories\n.\nLet's get started!\n\nSign up\n\nLog in\n\nOr\n\nSign in with Google\n\nForgot password?\n\nBy clicking Sign up you agree to Degoo terms.",
+    "fields": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "username",
+        "id": "username",
+        "placeholder": "Email",
+        "label": "login-username",
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "label": "login-password",
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Sign up"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Log in"
+      }
+    ],
+    "frames": [
+      "https://app.degoo.com/login"
+    ]
+  },
+  {
+    "provider": "pcloud",
+    "requested_url": "https://my.pcloud.com/#page=register",
+    "url": "https://my.pcloud.com/#/register",
+    "status": 200,
+    "title": "pCloud",
+    "text": "Log in or sign up for free\nPlease enter your email address to continue\nor use\nThis website uses cookies to give you the best, most relevant experience. We do not use cookies to collect Personal Information. Using this website means that you agree with this. Learn more about our cookie policy.\nCookie settingsI accept",
+    "fields": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Your email",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Submit",
+        "text": ""
+      }
+    ],
+    "frames": [
+      "https://my.pcloud.com/#/register",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ld3iconAAAAAMeIhfk_3jTdIPSNX_OcSY6QlvZR&co=aHR0cHM6Ly9teS5wY2xvdWQuY29tOjQ0Mw..&hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz&size=invisible&anchor-ms=20000&execute-ms=30000&cb=7sh9f71bgmpp",
+      "about:blank",
+      "about:blank"
+    ]
+  },
+  {
+    "provider": "icedrive",
+    "requested_url": "https://icedrive.net/signup",
+    "url": "https://icedrive.net/signup",
+    "status": 404,
+    "title": "Page not found | Icedrive",
+    "text": "icedrive\nPage not found\n\nThe page you have requested could not be found.\nIf you feel this may be an error, please contact us.\n\n \n \n \n ",
+    "fields": [],
+    "frames": [
+      "https://icedrive.net/signup",
+      "about:blank"
+    ]
+  }
+]

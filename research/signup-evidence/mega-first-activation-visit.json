@@ -1,0 +1,40 @@
+{
+  "provider": "mega",
+  "stage": "first-activation-visit",
+  "url_path": "https://mega.nz/confirm[REDACTED]",
+  "title": "Login - MEGA",
+  "text": "MEGA for Business\nV.7.6.3\nHelp Centre\nTerms of Service\nEN\nConfirm your account\nC\ncloudtest06b16133569173@maxxspace.com\nPassword\nConfirm",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "EN"
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "login-password2",
+      "id": "login-password2",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Confirm"
+    }
+  ],
+  "frames": [
+    "mega.nz/confirm[REDACTED]",
+    "mega.io/webclient/loggedout.html"
+  ]
+}

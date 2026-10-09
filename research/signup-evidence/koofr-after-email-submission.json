@@ -1,0 +1,48 @@
+{
+  "provider": "koofr",
+  "stage": "after-email-submission",
+  "url_path": "https://app.koofr.net/signup",
+  "title": "Create account - Koofr",
+  "text": "Create account\nAlready have an account? Sign in instead.\nEmail\nI agree to the Koofr Terms of Service and Privacy Policy\nType the digits from the image below\nCreate free account\nor\nSign up with Google\nAbout Koofr\nEN",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "email",
+      "id": "email",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "consent",
+      "id": "consent",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "captchaDigits",
+      "id": "captchaDigits",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Create free account"
+    }
+  ],
+  "frames": [
+    "app.koofr.net/signup"
+  ]
+}

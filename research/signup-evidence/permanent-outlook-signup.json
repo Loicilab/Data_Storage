@@ -1,0 +1,52 @@
+{
+  "provider": "permanent-outlook",
+  "stage": "signup",
+  "url_path": "https://signup.live.com/signup",
+  "title": "Create your Microsoft account",
+  "text": "Create your Microsoft account\nEnter your new email address.\nNew email\n@outlook.com\nNext\nAlready have an account? Sign in\nHelp and feedback\nTerms of use\nPrivacy and cookies\nUse private browsing if this is not your device. Learn more",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "email",
+      "id": "floatingLabelInput5",
+      "placeholder": "",
+      "label": "New email",
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "domainDropdownName",
+      "id": "domainDropdownId",
+      "placeholder": null,
+      "label": "Email domain options",
+      "text": "@outlook.com"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Next"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Help and feedback"
+    }
+  ],
+  "frames": [
+    "signup.live.com/signup",
+    "fpt.live.com/",
+    "iframe.hsprotect.net/index.html",
+    "blank",
+    ""
+  ]
+}

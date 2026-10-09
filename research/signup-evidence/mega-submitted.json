@@ -1,0 +1,40 @@
+{
+  "provider": "mega",
+  "stage": "submitted",
+  "url_path": "https://mega.nz/register",
+  "title": "Sign up - MEGA",
+  "text": "MEGA for Business\nV.7.6.3\nHelp Centre\nTerms of Service\nEN\nCheck your email inbox\n\nEmail confirmation sent to cloudtest06b16133569173@maxxspace.com\n\nCheck your email inbox and click the link to confirm your account.\n\nIf you don\u2019t receive the email, check your spam folder or tap \u201cResend email\u201d below.\n\nFor any other issues, contact support at https://mega.nz/support\n\nResend email in 0:55\nSent to wrong email address? \nChange email address",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "EN"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Resend email in 0:55"
+    }
+  ],
+  "frames": [
+    "mega.nz/register",
+    "mega.io/webclient/loggedout.html"
+  ]
+}

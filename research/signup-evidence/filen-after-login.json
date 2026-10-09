@@ -1,0 +1,57 @@
+{
+  "provider": "filen",
+  "stage": "after-login",
+  "url_path": "https://app.filen.io/",
+  "title": "Filen",
+  "text": "Filen\n\nCloud Drive\n\nRecents\n\nFavorites\n\nTrash\n\nShared with me\n\nShared with others\n\nLinks\n\n0 Bytes of 0 Bytes used\n\n!\n\nCloud Drive\n\nNew\n\nNo files or directories uploaded yet\n\nDrag and drop files or directories here or press the button below\n\nUpload files\nExport master keys\n\nPlease export your master keys and store them in a separate safe location. You need your master keys when you reset your password to avoid data loss. You need to export your master keys everytime you change your password.\n\nDismiss\nExport",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "placeholder": "Search in this directory...",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "radix-:r1l:",
+      "placeholder": null,
+      "label": null,
+      "text": "New"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Upload files"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Dismiss"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Export"
+    }
+  ],
+  "frames": [
+    "app.filen.io/"
+  ]
+}

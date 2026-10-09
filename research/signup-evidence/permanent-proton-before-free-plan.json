@@ -1,0 +1,221 @@
+{
+  "provider": "permanent-proton",
+  "stage": "before-free-plan",
+  "url_path": "https://account.proton.me/signup",
+  "title": "Create a Proton Account | Take back your privacy",
+  "text": "For individuals\nFor businesses\nEnglish\nAn encrypted email service that puts your privacy first\nEnd-to-end encrypted\nOpen source\nProtected by Swiss privacy laws\nYour 23% discount to Proton Unlimited has been applied\n1\nSelect your plan\n1 month\n12 months\nFree\nCHF\u00a00\nFree forever\nUp to 1 GB Mail storage\n1 email address\nMail Plus\nCHF\u00a03.99\n\u2212 20%\nCHF\u00a04.99\nper month, billed annually\nMail\nCalendar\n15 GB storage\n1 custom email domain\n10 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nProton Calendar\nRecommended\nProton Unlimited\nCHF\u00a09.99\n\u2212 23%\nCHF\u00a012.99\nper month, billed annually\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n500 GB storage\n3 custom email domains\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n15 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nProton Family\nCHF\u00a023.99\n\u2212 20%\nCHF\u00a029.99\nper month, billed annually\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n3 TB storage\n3 custom email domains\nUp to 6 users\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n90 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nCHF\n30-day money-back guarantee\n2\nCreate your Proton account\nUse your current email instead\nMore info: You will need a Proton address to use Proton Mail and Proton Calendar\nPassword\nAlready have an account? Sign in\nProton benefits\nEnd-to-end encryption\nProtected by Swiss privacy laws\nOpen source and audited\nWorks on all devices\nIntegrated email, calendar, file storage, password manager, and VPN\nJoin over 100 million people who have chosen Proton to stay safe online\n3\nCheckout\nCredit/debit card\nPayPal\nApple Pay\nGoogle Pay\nCard details\nBilling Country:Switzerland\nStart using Proton Mail now\n30-day money-back guarantee\nWe use 3-D Secure to protect your payments\nBy continuing, you agree to our terms and conditions and privacy policy.\nSummary\nProton Unlimited\nCHF\u00a0\n9.99\n1 year\n\u2212 23%\nCHF\u00a0\n12.99\n/month\n500 GB storage\nProton Mail\nProton Calendar\nProton Drive\nProton VPN\nProton Pass\nProton Wallet\nTotal for 12 months\nCHF\u00a0\n119.88\n*\nIncluding 8.1% tax: \nCHF\u00a0\n8.98\n*Subscription auto-renews every 12 months. Your next billing date is October 9th, 2027. You can cancel at any time. Renewal pricing subject to change according to terms and conditions.\nProton. Privacy by default.\nNeed help?",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "label_0",
+      "placeholder": null,
+      "label": null,
+      "text": "For individuals"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "label_1",
+      "placeholder": null,
+      "label": null,
+      "text": "For businesses"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "English"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": "Billing cycle: 1 month",
+      "text": "1 month"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": "Billing cycle: 12 months",
+      "text": "12 months"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Free\nCHF\u00a00\nFree forever\nUp to 1 GB Mail storage\n1 email address"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Mail Plus\nCHF\u00a03.99\n\u2212 20%\nCHF\u00a04.99\nper month, billed annually\nMail\nCalendar\n15 GB storage\n1 custom email domain\n10 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nProton Calendar"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Recommended\nProton Unlimited\nCHF\u00a09.99\n\u2212 23%\nCHF\u00a012.99\nper month, billed annually\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n500 GB storage\n3 custom email domains\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n15 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Proton Family\nCHF\u00a023.99\n\u2212 20%\nCHF\u00a029.99\nper month, billed annually\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n3 TB storage\n3 custom email domains\nUp to 6 users\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n90 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": "CHF",
+      "text": "CHF"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "existing-email-button",
+      "placeholder": null,
+      "label": null,
+      "text": "Use your current email instead"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "More info: You will need a Proton address to use Proton Mail and Proton Calendar"
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "",
+      "id": "password",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Sign in"
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "value",
+      "id": "chargebee-card",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "value",
+      "id": "chargebee-paypal",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "value",
+      "id": "apple-pay",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "radio",
+      "name": "value",
+      "id": "google-pay",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Switzerland"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Start using Proton Mail now"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Need help?"
+    }
+  ],
+  "frames": [
+    "account.proton.me/signup",
+    "account-api.proton.me/challenge/v4/html",
+    "account-api.proton.me/challenge/v4/html",
+    "account-api.proton.me/payments/v5/forms/cards",
+    "blank",
+    "js.chargebee.com/assets/cbjs-2026.09.30-10.09/v2/master.html",
+    "js.chargebee.com/assets/cbjs-2026.09.30-10.09/v2/component.html",
+    "js.chargebee.com/assets/cbjs-2026.09.30-10.09/v2/component.html",
+    "js.chargebee.com/assets/cbjs-2026.09.30-10.09/v2/component.html",
+    "newassets.hcaptcha.com/captcha/v1/e97a50d7ecb685043e82c9d7a6034c5c544521c1/static/hcaptcha.html",
+    "newassets.hcaptcha.com/captcha/v1/e97a50d7ecb685043e82c9d7a6034c5c544521c1/static/hcaptcha.html",
+    "js.stripe.com/v2/channel.html"
+  ]
+}

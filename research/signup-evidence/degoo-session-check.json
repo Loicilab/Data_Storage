@@ -1,0 +1,48 @@
+{
+  "provider": "degoo",
+  "stage": "session-check",
+  "url_path": "https://app.degoo.com/moments",
+  "title": "Degoo Cloud",
+  "text": "Moments\nFiles\nShared\n\nUpload\n\nPremium required to use Degoo on desktop.\nMore info",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "",
+      "id": "searchTerm",
+      "placeholder": "Search",
+      "label": "What do you desire?",
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "upload-btn",
+      "placeholder": null,
+      "label": null,
+      "text": "Upload"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "expand-button",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "More info"
+    }
+  ],
+  "frames": [
+    "app.degoo.com/moments"
+  ]
+}

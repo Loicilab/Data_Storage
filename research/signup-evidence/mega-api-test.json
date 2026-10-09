@@ -1,0 +1,17 @@
+{
+  "provider": "mega",
+  "client": "rclone v1.75.2",
+  "tests": [
+    "Authenticated quota query passed",
+    "Upload passed",
+    "Listing passed",
+    "Download passed; SHA-256 matched original",
+    "Deleted only the generated test file"
+  ],
+  "quota": {
+    "total": 21474836480,
+    "used": 0,
+    "free": 21474836480
+  },
+  "status": "passed"
+}

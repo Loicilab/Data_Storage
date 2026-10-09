@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+build/
+dist/
+*.spec
+research/test-credentials.dpapi
+# Local plaintext credentials and screenshots that expose them.
+accounts/email-pairs.csv
+research/signup-evidence/email-pairs-after-provider-change.png
+research/signup-evidence/email-pairs-before-provider-change.png
+research/signup-evidence/email-pairs-with-passwords.png
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/app/src/main/jniLibs/

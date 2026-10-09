@@ -1,0 +1,40 @@
+{
+  "provider": "mega",
+  "stage": "confirmation-opened",
+  "url_path": "https://mega.nz/confirmQ29uZmlybUNvZGVWMt8sGuyOBAAEvAdGYSK_8GNsb3VkdGVzdGZmZDc1NjlhZjM0OGJhQG1heHhzcGFjZS5jb20JQ2xvdWQgVGVzdCAfkqKgfYYpJg",
+  "title": "Login - MEGA",
+  "text": "MEGA for Business\nV.7.6.3\nHelp Centre\nTerms of Service\nEN\nConfirm your account\nC\ncloudtestffd7569af348ba@maxxspace.com\nPassword\nConfirm",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "EN"
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "login-password2",
+      "id": "login-password2",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Confirm"
+    }
+  ],
+  "frames": [
+    "mega.nz/confirmQ29uZmlybUNvZGVWMt8sGuyOBAAEvAdGYSK_8GNsb3VkdGVzdGZmZDc1NjlhZjM0OGJhQG1heHhzcGFjZS5jb20JQ2xvdWQgVGVzdCAfkqKgfYYpJg",
+    "blank"
+  ]
+}

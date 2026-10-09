@@ -1,0 +1,309 @@
+{
+  "provider": "permanent-outlook",
+  "stage": "begin",
+  "url_path": "https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
+  "title": "Microsoft Outlook Personal Email and Calendar | Microsoft 365",
+  "text": "Skip to main content",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": "Close Announcement Banner",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "tabs-pill-bar-oc8375c_tab0-tab",
+      "placeholder": null,
+      "label": "Key benefits",
+      "text": "Key benefits"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "tabs-pill-bar-oc8375c_tab1-tab",
+      "placeholder": null,
+      "label": "Get more from Outlook",
+      "text": "Get more from Outlook"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "tabs-pill-bar-oc8375c_tab2-tab",
+      "placeholder": null,
+      "label": "Copilot in Outlook",
+      "text": "Copilot in Outlook"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Together in one place"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Connect your accounts"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Write more effective emails"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Easily access your files"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Previous Slide"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Next Slide"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "plans-and-pricing4_tab0-tab",
+      "placeholder": null,
+      "label": "For individuals",
+      "text": "For individuals"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "plans-and-pricing4_tab1-tab",
+      "placeholder": null,
+      "label": "For business",
+      "text": "For business"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-popover-oce1ad",
+      "placeholder": null,
+      "label": "outlook icon",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc2gh-0",
+      "placeholder": null,
+      "label": "Outlook",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc2gh-1",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-0",
+      "placeholder": null,
+      "label": "Microsoft Copilot",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-1",
+      "placeholder": null,
+      "label": "Word",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-2",
+      "placeholder": null,
+      "label": "Excel",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-3",
+      "placeholder": null,
+      "label": "PowerPoint",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-4",
+      "placeholder": null,
+      "label": "Outlook",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-5",
+      "placeholder": null,
+      "label": "OneNote",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-6",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-7",
+      "placeholder": null,
+      "label": "Microsoft Defender",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc0b78-8",
+      "placeholder": null,
+      "label": "Microsoft Teams",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-0",
+      "placeholder": null,
+      "label": "Microsoft Copilot",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-1",
+      "placeholder": null,
+      "label": "Word",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-2",
+      "placeholder": null,
+      "label": "Excel",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-3",
+      "placeholder": null,
+      "label": "PowerPoint",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-4",
+      "placeholder": null,
+      "label": "Outlook",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-5",
+      "placeholder": null,
+      "label": "OneNote",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-6",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-7",
+      "placeholder": null,
+      "label": "Microsoft Defender",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "badgePopover-card-plan-detail-oc798-8",
+      "placeholder": null,
+      "label": "Microsoft Teams",
+      "text": ""
+    }
+  ],
+  "frames": [
+    "www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook"
+  ]
+}

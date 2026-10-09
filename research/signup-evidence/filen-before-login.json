@@ -1,0 +1,48 @@
+{
+  "provider": "filen",
+  "stage": "before-login",
+  "url_path": "https://app.filen.io/",
+  "title": "Filen",
+  "text": "Filen\n\nLogin\n\nEnter your email and password below to login to your account\n\nLogin\nCreate an account\nForgot your password?\nTerms of Service\nPrivacy",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "",
+      "id": "email",
+      "placeholder": "me@example.com",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "",
+      "id": "password",
+      "placeholder": "Password",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Login"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Create an account"
+    }
+  ],
+  "frames": [
+    "app.filen.io/"
+  ]
+}

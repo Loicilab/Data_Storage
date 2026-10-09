@@ -1,0 +1,127 @@
+{
+  "prepared_on": "2026-10-09",
+  "purpose": "Two permanent inboxes per generated test name; pairs are intended backup partners.",
+  "notice": "User reports the Proton inboxes created. Lena's sign-in reports a suspension; other inboxes have not been independently checked. Mailfence addresses remain proposals. Pairing does not configure recovery or copy files.",
+  "pairs": [
+    {
+      "pair_id": "pair-01",
+      "generated_name": "Lena Lindner",
+      "email_a": "lindnerlena7693@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "lena.lindner.6760@proton.me",
+      "provider_b": "Proton",
+      "status_b": "suspended_observed",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created_mailbox_suspended"
+    },
+    {
+      "pair_id": "pair-02",
+      "generated_name": "Eva Seidel",
+      "email_a": "seideleva3375@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "eva.seidel.5480@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    },
+    {
+      "pair_id": "pair-03",
+      "generated_name": "Emma Becker",
+      "email_a": "beckeremma4290@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "emma.becker.9215@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    },
+    {
+      "pair_id": "pair-04",
+      "generated_name": "Felix Brandt",
+      "email_a": "brandtfelix3653@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "felix.brandt.2091@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    },
+    {
+      "pair_id": "pair-05",
+      "generated_name": "Sofia Feld",
+      "email_a": "feldsofia5079@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "sofia.feld.5328@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    },
+    {
+      "pair_id": "pair-06",
+      "generated_name": "Mira Seidel",
+      "email_a": "seidelmira1578@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "mira.seidel.2826@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    },
+    {
+      "pair_id": "pair-07",
+      "generated_name": "Robin Keller",
+      "email_a": "kellerrobin1084@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "robin.keller.9325@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    },
+    {
+      "pair_id": "pair-08",
+      "generated_name": "Nina Hartmann",
+      "email_a": "hartmannnina1022@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "nina.hartmann.2273@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    },
+    {
+      "pair_id": "pair-09",
+      "generated_name": "Clara Berger",
+      "email_a": "bergerclara4515@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "clara.berger.1975@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    },
+    {
+      "pair_id": "pair-10",
+      "generated_name": "Finn Hoffmann",
+      "email_a": "hoffmannfinn1296@mailfence.com",
+      "provider_a": "Mailfence",
+      "status_a": "planned",
+      "email_b": "finn.hoffmann.3578@proton.me",
+      "provider_b": "Proton",
+      "status_b": "created_user_reported",
+      "mutual_recovery": "not_configured",
+      "mega_status": "not_created"
+    }
+  ]
+}

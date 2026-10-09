@@ -1,0 +1,167 @@
+{
+  "provider": "permanent-proton",
+  "stage": "begin",
+  "url_path": "https://account.proton.me/signup",
+  "title": "Create a Proton Account | Take back your privacy",
+  "text": "For individuals\nFor businesses\nEnglish\nAn encrypted email service that puts your privacy first\nEnd-to-end encrypted\nOpen source\nProtected by Swiss privacy laws\n1\nSelect your plan\n1 month\n12 months\nFree\nCHF\u00a00\nFree forever\nUp to 1 GB Mail storage\n1 email address\nMail Plus\nCHF\u00a03.99\n\u2212 20%\nCHF\u00a04.99\nper month, billed annually\nMail\nCalendar\n15 GB storage\n1 custom email domain\n10 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nProton Calendar\nRecommended\nProton Unlimited\nCHF\u00a09.99\n\u2212 23%\nCHF\u00a012.99\nper month, billed annually\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n500 GB storage\n3 custom email domains\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n15 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nProton Family\nCHF\u00a023.99\n\u2212 20%\nCHF\u00a029.99\nper month, billed annually\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n3 TB storage\n3 custom email domains\nUp to 6 users\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n90 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nCHF\n2\nCreate your Proton account\nUse your current email instead\nMore info: You will need a Proton address to use Proton Mail and Proton Calendar\nPassword\nStart using Proton Mail now\nAlready have an account? Sign in\nBy continuing, you agree to our terms and conditions and privacy policy.\nThe only email service with:\nBuilt-in encryption\nProtected by Swiss privacy laws\nEmail aliases\nAdvanced security features\nCalendar, password manager, file storage, and VPN included\nJoin over 100 million people who have chosen Proton to stay safe online\nProton. Privacy by default.\nNeed help?",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "label_0",
+      "placeholder": null,
+      "label": null,
+      "text": "For individuals"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "label_1",
+      "placeholder": null,
+      "label": null,
+      "text": "For businesses"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "English"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": "Billing cycle: 1 month",
+      "text": "1 month"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": "Billing cycle: 12 months",
+      "text": "12 months"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Free\nCHF\u00a00\nFree forever\nUp to 1 GB Mail storage\n1 email address"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Mail Plus\nCHF\u00a03.99\n\u2212 20%\nCHF\u00a04.99\nper month, billed annually\nMail\nCalendar\n15 GB storage\n1 custom email domain\n10 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support\nProton Calendar"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Recommended\nProton Unlimited\nCHF\u00a09.99\n\u2212 23%\nCHF\u00a012.99\nper month, billed annually\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n500 GB storage\n3 custom email domains\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n15 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Proton Family\nCHF\u00a023.99\n\u2212 20%\nCHF\u00a029.99\nper month, billed annually\nMail\nCalendar\nDrive\nVPN\nPass\nDocs\n3 TB storage\n3 custom email domains\nUp to 6 users\nAll premium features from Proton Mail, Pass, VPN, Drive, and Calendar\n90 email addresses/aliases\nUnlimited folders, labels, and filters\nUnlimited messages per day\nPriority support"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": "CHF",
+      "text": "CHF"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "existing-email-button",
+      "placeholder": null,
+      "label": null,
+      "text": "Use your current email instead"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "More info: You will need a Proton address to use Proton Mail and Proton Calendar"
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "",
+      "id": "password",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Start using Proton Mail now"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Sign in"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Need help?"
+    }
+  ],
+  "frames": [
+    "account.proton.me/signup",
+    "account-api.proton.me/challenge/v4/html",
+    "account-api.proton.me/challenge/v4/html"
+  ]
+}

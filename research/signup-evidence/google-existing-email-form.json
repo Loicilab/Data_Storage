@@ -1,0 +1,44 @@
+{
+  "provider": "google",
+  "stage": "existing-email-form",
+  "url_path": "https://accounts.google.com/lifecycle/steps/signup/emailsignup",
+  "title": "Use your existing email Enter the email address you want to use for your Google Account",
+  "text": "Loading\nUse your existing email\nEnter the email address you want to use for your Google Account\nEmail address\nYou\u2019ll need to confirm that this email belongs to you\nGet a Gmail address instead\nNext\nEnglish (United States)\nHelp\nPrivacy\nTerms\nUse your existing email Enter the email address you want to use for your Google Account\nMaximum of 4 characters entered",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "Username",
+      "id": "identifierId",
+      "placeholder": "",
+      "label": "Email address",
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Get a Gmail address instead"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Next"
+    }
+  ],
+  "frames": [
+    "accounts.google.com/lifecycle/steps/signup/emailsignup",
+    "accounts.google.com/_/bscframe",
+    "accounts.google.com/_/bscframe",
+    "www.google.com/recaptcha/enterprise/anchor",
+    "blank",
+    "blank"
+  ]
+}

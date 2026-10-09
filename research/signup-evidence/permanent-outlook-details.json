@@ -1,0 +1,62 @@
+{
+  "provider": "permanent-outlook",
+  "stage": "details",
+  "url_path": "https://signup.live.com/signup",
+  "title": "Create your password",
+  "text": "lena.lindner.6760@outlook.com\nCreate your password\nTo keep your Microsoft account safe, choose a long password and avoid using real words.\nPassword\nPasswords must have at least 8 characters and include a mix of uppercase letters, lowercase letters, numbers, and symbols.\nNext\nHelp and feedback\nTerms of use\nPrivacy and cookies\nUse private browsing if this is not your device. Learn more",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "back-button",
+      "placeholder": null,
+      "label": "Back",
+      "text": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "",
+      "id": "floatingLabelInput11",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": "Show password",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Next"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Help and feedback"
+    }
+  ],
+  "frames": [
+    "signup.live.com/signup",
+    "fpt.live.com/",
+    "df.cfp.microsoft.com/Clear.HTML",
+    "iframe.hsprotect.net/index.html",
+    "blank",
+    "crcldu.com/bd/sync.html"
+  ]
+}

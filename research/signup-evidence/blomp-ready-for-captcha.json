@@ -1,0 +1,88 @@
+{
+  "provider": "blomp",
+  "stage": "ready-for-captcha",
+  "url_path": "https://dashboard.blomp.com/register",
+  "title": "Blomp Dashboard - Sign Up",
+  "text": "Welcome to Blomp!\nPlease enter your details below to register\n Your password must be at least 12 characters long, and include at least one letter, one number, and one special character (e.g. @, $, !)\nCheck Availability\nI agree to the Terms and Conditions REGISTER\n\u00a0\nDidn't get the verification email?\n\nClick below to resend the email.\n\nRESEND\n\n\u00a9 2026.Blomp.com Storage. Made. Easy.",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "name",
+      "id": "",
+      "placeholder": "Name",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "email",
+      "id": "",
+      "placeholder": "Email Address",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "password",
+      "id": "password",
+      "placeholder": "Password",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "password_confirmation",
+      "id": "password-confirm",
+      "placeholder": "Retype Password",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "forum_username",
+      "id": "id_forum_username",
+      "placeholder": "Prefered Forum Username",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "promo_code",
+      "id": "",
+      "placeholder": "Promo Code (Optional)",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "agreement",
+      "id": "agree",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "REGISTER"
+    }
+  ],
+  "frames": [
+    "dashboard.blomp.com/register",
+    "www.google.com/recaptcha/api2/anchor",
+    "blank",
+    "blank",
+    "www.google.com/recaptcha/api2/bframe"
+  ]
+}

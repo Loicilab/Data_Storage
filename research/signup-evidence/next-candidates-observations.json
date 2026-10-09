@@ -1,0 +1,496 @@
+[
+  {
+    "provider": "box",
+    "requested_url": "https://account.box.com/signup/personal",
+    "url": "https://account.box.com/signup/personal",
+    "status": 200,
+    "title": "Signup Page | Powered by Box",
+    "text": "Skip to main content\nEnglish (US)\n+44 808 189 0504\nSign In\nCreate Your Free Box Account\n\n10 GB storage, 250 MB upload limit.\n\nSign Up with Google\n\nor\n\nFull Name\nEmail\nPassword\nI agree to Box's Terms of Service. To understand how Box processes personal data, see Box's Privacy Policy\nI agree to receive marketing materials regarding Box products, services, and events. I may adjust my preferences at any time by visiting here.\nCreate Free Account\n\nAlready have an account? Sign In\n\n\u00a9 2026 Box Inc.\nPrivacy Policy\nTerms of Service\nHelp\nSign In with Google",
+    "fields": [
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Skip to main content"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "radix-:ra:",
+        "placeholder": null,
+        "label": "Choose language",
+        "text": "English (US)"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Sign Up with Google"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "fullName",
+        "id": "input-0f62",
+        "placeholder": "Enter your full name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "email",
+        "id": "input-ef38",
+        "placeholder": "Enter your email",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "password",
+        "id": "input-0b18",
+        "placeholder": "Enter password",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "isTOSAcknowledged",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "isMarketingUpdatesAcknowledged",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Create Free Account"
+      }
+    ],
+    "frames": [
+      "https://account.box.com/signup/personal",
+      "https://insight.adsrvr.org/track/up/?adv=h1lut3x&ref=https%3A%2F%2Faccount.box.com%2Fsignup%2Fpersonal&upid=fc8cm6s&upv=1.1.3",
+      "about:blank",
+      "https://newassets-captcha.boxcdn.net/captcha/v1/e97a50d7ecb685043e82c9d7a6034c5c544521c1/static/hcaptcha.html#frame=challenge&id=0g4tp4o2t9zm&host=account.box.com&sentry=false&reportapi=https%3A%2F%2Faccounts-captcha.boxcdn.net&recaptchacompat=true&custom=false&hl=en&assethost=https%3A%2F%2Fnewassets-captcha.boxcdn.net&imghost=https%3A%2F%2Fimages-captcha.boxcdn.net&tplinks=on&andint=off&pstissuer=https%3A%2F%2Fpst-issuer.hcaptcha.com&sitekey=dc8708c9-ae97-4e51-a7fe-b55289e092d9&endpoint=https%3A%2F%2Fcaptcha.boxcdn.net&theme=light&origin=https%3A%2F%2Faccount.box.com&clientOptions=%7B%22sentry%22%3Afalse%2C%22reportapi%22%3A%22https%3A%2F%2Faccounts-captcha.boxcdn.net%22%2C%22recaptchacompat%22%3A%22true%22%2C%22custom%22%3Afalse%2C%22hl%22%3A%22en-US%22%2C%22assethost%22%3A%22https%3A%2F%2Fnewassets-captcha.boxcdn.net%22%2C%22imghost%22%3A%22https%3A%2F%2Fimages-captcha.boxcdn.net%22%2C%22tplinks%22%3A%22on%22%2C%22andint%22%3A%22off%22%2C%22pat%22%3A%22on%22%2C%22pstissuer%22%3A%22https%3A%2F%2Fpst-issuer.hcaptcha.com%22%2C%22endpoint%22%3A%22https%3A%2F%2Fcaptcha.boxcdn.net%22%2C%22theme%22%3A%22light%22%2C%22size%22%3A%22normal%22%2C%22confirm-nav%22%3Afalse%7D",
+      "https://newassets-captcha.boxcdn.net/captcha/v1/e97a50d7ecb685043e82c9d7a6034c5c544521c1/static/hcaptcha.html#frame=checkbox&id=0g4tp4o2t9zm&host=account.box.com&sentry=false&reportapi=https%3A%2F%2Faccounts-captcha.boxcdn.net&recaptchacompat=true&custom=false&hl=en&assethost=https%3A%2F%2Fnewassets-captcha.boxcdn.net&imghost=https%3A%2F%2Fimages-captcha.boxcdn.net&tplinks=on&andint=off&pstissuer=https%3A%2F%2Fpst-issuer.hcaptcha.com&sitekey=dc8708c9-ae97-4e51-a7fe-b55289e092d9&endpoint=https%3A%2F%2Fcaptcha.boxcdn.net&theme=light&origin=https%3A%2F%2Faccount.box.com&clientOptions=%7B%22sentry%22%3Afalse%2C%22reportapi%22%3A%22https%3A%2F%2Faccounts-captcha.boxcdn.net%22%2C%22recaptchacompat%22%3A%22true%22%2C%22custom%22%3Afalse%2C%22hl%22%3A%22en-US%22%2C%22assethost%22%3A%22https%3A%2F%2Fnewassets-captcha.boxcdn.net%22%2C%22imghost%22%3A%22https%3A%2F%2Fimages-captcha.boxcdn.net%22%2C%22tplinks%22%3A%22on%22%2C%22andint%22%3A%22off%22%2C%22pat%22%3A%22on%22%2C%22pstissuer%22%3A%22https%3A%2F%2Fpst-issuer.hcaptcha.com%22%2C%22endpoint%22%3A%22https%3A%2F%2Fcaptcha.boxcdn.net%22%2C%22theme%22%3A%22light%22%2C%22size%22%3A%22normal%22%2C%22confirm-nav%22%3Afalse%7D",
+      "https://box.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Faccount.box.com"
+    ]
+  },
+  {
+    "provider": "mediafire",
+    "requested_url": "https://www.mediafire.com/upgrade/",
+    "url": "https://www.mediafire.com/upgrade/",
+    "status": 200,
+    "title": "File sharing and storage made simple",
+    "text": "HELP\nLOG IN\nChoose the plan that fits your needs.\nMediaFire is trusted by over\n100 million users\nworldwide. Cancel any time. Money-back guarantee.\nPRO\n30% OFF\n\n1 TB of long-term storage, standard transfer speeds, no ads\n\nOriginal price:\n\n$8.33/month\n\nDiscounted price:\n\n$5.83/month\n\nbilled annually\n\nor $6.99 month-to-month\n\nBUY NOW \nTons of Storage\n1 TB of long-term storage\n1 TB of ad-free standard transfers\n50 GB per file\nBulk-download multiple files\nDirect links to files\nFileDrop file requests\nPassword protected files\nOne-Time Links\nWeb uploads\nCustomizable colors\nPriority support\n \nULTRA\n\n100 GB of storage, ultra fast transfer speeds, no ads\n\n$10/month\n\nBilled monthly\n\nBUY NOW \nFast Downloads & Uploads\n100 GB of long-term storage\n50 GB of ad-free CDN fast transfers\n50 GB per file\nBulk-download multiple files\nDirect links to files\nFileDrop file requests\nPassword protected files\nOne-Time Links\nWeb uploads\nCustomizable colors\nPriority support\n \nBASIC\n\n10 GB storage, ad-supported downloads\n\nAd-supported\n\nLimited features\n\nSIGN UP \nAd-Supported Downloads\n10 GB of active-account storage\nAd-supported standard transfers\n5 GB per file\nSingle-file downloads only\nCOMPANY\nAbout Us\nCareers\nPress\nCompany Blog\nTOOLS\nMediaFire Mobile\nAI-Native Content Platform\nText Sharing for AI Workflows\nCOMPARE\nDropbox Alternative\nBox.com Alternative\nGoogle Drive Alternative\nUPGRADE\nProfessional\nBusiness\nSUPPORT\nGet Support\nSprache ausw\u00e4hlen\nDeutsch\nAbchasisch\nAceh\nAcholi\nAfar\nAfrikaans\nAlbanisch\nAlur\nAmharisch\nArabisch\nArmenisch\nAserbaidschanisch\nAssamesisch\nAwadhi\nAwarisch\nAymara\nBalinesisch\nBambara\nBaoul\u00e9\nBaschkirisch\nBaskisch\nBelarussisch\nBelutschi\nBemba\nBengalisch\nBetawi\nBhojpuri\nBikol\nBosnisch\nBretonisch\nBulgarisch\nBurjatisch\nCebuano\nChamorro\nChichewa\nChinesisch (traditionell)\nChinesisch (vereinfacht)\nChuukesisch\nD\u00e4nisch\nDari\nDhivehi\nDinka\nDioula\nDogri\nDombe\nDzongkha\nEsperanto\nEstnisch\nEwe\nF\u00e4r\u00f6isch\nFidschianisch\nFilipino\nFinnisch\nFon\nFranz\u00f6sisch\nFranz\u00f6sisch (Kanada)\nFriesisch\nFulfulde\nFurlanisch\nGa\nGalizisch\nGeorgisch\nGriechisch\nGuarani\nGujarati\nHaitianisch\nHakha Chin\nHausa\nHawaiisch\nHebr\u00e4isch\nHiligaynon\nHindi\nHmong\nIban\nIgbo\nIlokano\nIndonesisch\nInuktitut (Silbenschrift)\nInuktut (lat. Alphabet)\nIrisch\nIsl\u00e4ndisch\nItalienisch\nJakutisch\nJamaikanisches Kreolisch\nJapanisch\nJavanisch\nJiddisch\nJingpo\nKalaallisut\nKannada\nKantonesisch\nKanuri\nKapampangan\nKaro-Batak\nKasachisch\nKatalanisch\nKekch\u00ed\nKhasi\nKhmer\nKiga\nKikongo\nKinyarwanda\nKirgisisch\nKirundi\nKituba\nKokborok\nKomi\nKonkani\nKoreanisch\nKorsisch\nKreolisch (Mauritius)\nKrimtatarisch (Kyrillisch)\nKrimtatarisch (lat. Alphabet)\nKrio\nKroatisch\nKurdisch (Kurmandschi)\nKurdisch (Sorani)\nLao\nLatein\nLettgallisch\nLettisch\nLigurisch\nLimburgisch\nLingala\nLitauisch\nLombardisch\nLuganda\nLuo\nLuxemburgisch\nMaduresisch\nMaithili\nMakassar\nMalagasy\nMalaiisch (Jawi)\nMalayalam\nMalaysisch\nMaltesisch\nMam\nManx\nMaori\nMarathi\nMarshallesisch\nMarwari\nMayathan\nMazedonisch\nMeitei (Manipurisch)\nMinangkabauisch\nMizo\nMongolisch\nMyanmar (Birmanisch)\nN\u2019Ko\nNahuatl (Ost-Huasteca)\nNdau\nNdebele (S\u00fcd)\nNepal Bhasa (Newari)\nNepalesisch\nNiederl\u00e4ndisch\nNord-Sotho\nNorwegisch\nNuer\nOdia (Oriya)\nOkzitanisch\nOromo\nOssetisch\nPangasinensisch\nPanjabi (Gurmukhi)\nPanjabi (Shahmukhi)\nPapiamentu\nPaschtu\nPersisch\nPolnisch\nPortugiesisch (Brasilien)\nPortugiesisch (Portugal)\nQuechua\nRiograndenser Hunsr\u00fcckisch\nRomani\nRum\u00e4nisch\nRussisch\nSamisch (Nord)\nSamoanisch\nSango\nSanskrit\nSantali (lat. Alphabet)\nSantali (Ol Chiki)\nSchlesisch\nSchottisch-G\u00e4lisch\nSchwedisch\nSerbisch\nSesotho\nSetswana\nSeychellenkreol\nShan\nShona\nSimalungun-Batak\nSindhi\nSinghalesisch\nSiswati\nSizilianisch\nSlowakisch\nSlowenisch\nSomali\nSpanisch\nSundanesisch\nSusu\nSwahili\nTadschikisch\nTahitianisch\nTamazight\nTamazight (Tifinagh)\nTamil\nTatarisch\nTelugu\nTetum\nThail\u00e4ndisch\nTibetisch\nTigrinya\nTiv\nToba-Batak\nTok Pisin\nTongaisch\nTschechisch\nTschetschenisch\nTschiluba\nTschuwaschisch\nTsonga\nTulu\nTumbuka\nT\u00fcrkisch\nTurkmenisch\nTuwinisch\nTwi\nUdmurtisch\nUigurisch\nUkrainisch\nUngarisch\nUrdu\nUsbekisch\nVenda\nVenetisch\nVietnamesisch\nWalisisch\nWaray-Waray\nWiesenmari\nWolof\nXhosa\nYoruba\nZapotekisch\nZulu\n\u00a0\u00a0Powered by Google \u00dcbersetzer\n\u00a92026 MediaFire Build 121967\nAdvertising\nTerms\nPrivacy Policy\nCopyright\nAbuse\nCredits\nMore...\n\nMediaFire uses cookies to provide you with a personalized browsing experience. By continuing to use this site, you agree to our Privacy Policy.\n\nDismiss\nI Accept",
+    "fields": [
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "HELP"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "planPro",
+        "placeholder": null,
+        "label": null,
+        "text": "BUY NOW"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "1 TB of long-term storage"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "1 TB of ad-free standard transfers"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "50 GB per file"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Bulk-download multiple files"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Direct links to files"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "FileDrop file requests"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Password protected files"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "One-Time Links"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Web uploads"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Customizable colors"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Priority support"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "planUltra",
+        "placeholder": null,
+        "label": null,
+        "text": "BUY NOW"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "100 GB of long-term storage"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "50 GB of ad-free CDN fast transfers"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "50 GB per file"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Bulk-download multiple files"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Direct links to files"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "FileDrop file requests"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Password protected files"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "One-Time Links"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Web uploads"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Customizable colors"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Priority support"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "planFree",
+        "placeholder": null,
+        "label": null,
+        "text": "SIGN UP"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "10 GB of active-account storage"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Ad-supported standard transfers"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "5 GB per file"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Single-file downloads only"
+      },
+      {
+        "tag": "SELECT",
+        "type": "select-one",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Widget \"Sprache \u00fcbersetzen\"",
+        "text": null
+      }
+    ],
+    "frames": [
+      "https://www.mediafire.com/upgrade/",
+      "https://www.mediafire.com/blank.html",
+      "https://www.mediafire.com/blank.html",
+      "https://www.mediafire.com/templates/upgrade/upgrade_button.php",
+      "https://www.mediafire.com/blank.html",
+      "https://www.mediafire.com/blank.html",
+      "about:blank",
+      "about:blank",
+      "about:blank",
+      "about:blank",
+      "about:blank",
+      "about:blank",
+      "about:blank",
+      "",
+      "about:blank",
+      "about:blank"
+    ]
+  },
+  {
+    "provider": "drime",
+    "requested_url": "https://app.drime.cloud/register",
+    "url": "https://app.drime.cloud/login",
+    "status": 200,
+    "title": "Sign in - Drime",
+    "text": "We value your privacy\n\nUnlike many companies, we respect your privacy by using only essential cookies. These cookies help us understand your online journey and enhance your experience without compromising your data. We do not track you for unnecessary advertising purposes.\n\nCustomize\nReject All\nAccept All\nWelcome to Drime\n\nEnter your email to get started. We'll automatically detect if you already have an account or not.\n\nContinue\n\nBy continuing, you agree to our Terms of Service and Privacy & Cookie Policy.\n\n\u00a9 2026 Drime",
+    "fields": [
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Customize",
+        "text": "Customize"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Reject All",
+        "text": "Reject All"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Accept All",
+        "text": "Accept All"
+      },
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "email",
+        "id": ":r1:",
+        "placeholder": "Email",
+        "label": "Email",
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Continue"
+      }
+    ],
+    "frames": [
+      "https://app.drime.cloud/login",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Let4LsrAAAAAILTG576pUMMy8OBpHMaJvgu5ads&co=aHR0cHM6Ly9hcHAuZHJpbWUuY2xvdWQ6NDQz&hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz&size=invisible&anchor-ms=20000&execute-ms=30000&cb=l2q8cpuesl0r",
+      "about:blank",
+      "about:blank"
+    ]
+  }
+]

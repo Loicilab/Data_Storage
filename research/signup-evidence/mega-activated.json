@@ -1,0 +1,40 @@
+{
+  "provider": "mega",
+  "stage": "activated",
+  "url_path": "https://mega.nz/key",
+  "title": "Key - MEGA",
+  "text": "Download your recovery key now\nMEGA uses zero-knowledge encryption to keep your data private, not even we can access your password.\nTo avoid losing access to your MEGA account, download and save your recovery key. It\u2019s the only way to reset your password if you forget it. Learn more.\nLater\nDownload and continue\n\u00a9 MEGA 2026 All rights reserved\nHelp Centre Terms of Service\nEN",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Later"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Download and continue"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "EN"
+    }
+  ],
+  "frames": [
+    "mega.nz/key",
+    "mega.io/webclient/loggedout.html"
+  ]
+}

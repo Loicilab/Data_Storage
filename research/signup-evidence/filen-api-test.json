@@ -1,0 +1,25 @@
+{
+  "provider": "filen",
+  "test_date": "2026-10-09",
+  "signup": "created and email-activated without CAPTCHA",
+  "tests": [
+    "Official CLI authenticated and exported account API key",
+    "Authenticated quota query passed",
+    "Authenticated listing passed"
+  ],
+  "cli_export": {
+    "exit_code": 0,
+    "stdout_characters": 224,
+    "stderr_characters": 0,
+    "created_files": []
+  },
+  "quota": {
+    "total": 0,
+    "used": 0,
+    "free": 0
+  },
+  "listed_objects": 0,
+  "upload": "rejected",
+  "upload_error": "2026/10/09 17:37:09 ERROR : [REDACTED].txt: Failed to copy: upload chunk 0: response error: Maximum storage reached. max_storage_reached\n2026/10/09 17:37:09 ERROR : Attempt 1/1 failed with 1 errors and: upload chunk 0: response error: Maximum storage reached. max_storage_reached\n2026/10/09 17:37:09 NOTICE: Failed to copyto: upload chunk 0: response error: Maximum storage reached. max_storage_reached\n",
+  "status": "read API passed; upload rejected"
+}

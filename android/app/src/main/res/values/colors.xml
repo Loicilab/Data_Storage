@@ -1,0 +1,6 @@
+<resources>
+    <!-- Match the web UI background and surface colours so there is no flash while loading. -->
+    <color name="window_background">#F5F6F8</color>
+    <color name="bars">#FFFFFF</color>
+    <color name="icon_background">#2F6FED</color>
+</resources>

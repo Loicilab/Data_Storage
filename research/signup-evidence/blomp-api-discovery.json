@@ -1,0 +1,23 @@
+{
+  "provider": "blomp",
+  "test_date": "2026-10-09",
+  "signup_status": "not completed: image CAPTCHA rejected completed attempts",
+  "authenticated_file_test": "not run: no activated account",
+  "public_discovery": [
+    {
+      "url": "https://authenticate.blomp.com",
+      "http_status": 300,
+      "advertised_api_versions": [
+        "v3.4",
+        "v2.0"
+      ]
+    },
+    {
+      "url": "https://authenticate.ain.net",
+      "http_status": 200,
+      "advertised_api_versions": [
+        "v2.0"
+      ]
+    }
+  ]
+}

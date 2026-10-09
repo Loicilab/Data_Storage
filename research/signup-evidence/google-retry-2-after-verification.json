@@ -1,0 +1,53 @@
+{
+  "provider": "google-retry-2",
+  "stage": "after-verification",
+  "url_path": "https://accounts.google.com/lifecycle/steps/signup/password",
+  "title": "Create a strong password Create a strong password with a mix of letters, numbers and symbols",
+  "text": "Loading\nCreate a strong password\nCreate a strong password with a mix of letters, numbers and symbols\nPassword\nConfirm\nShow password\nNext\nEnglish (United States)\nHelp\nPrivacy\nTerms\nCreate a strong password Create a strong password with a mix of letters, numbers and symbols\nMaximum of 4 characters entered",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "Passwd",
+      "id": "",
+      "placeholder": "",
+      "label": "Password",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "PasswdAgain",
+      "id": "",
+      "placeholder": "",
+      "label": "Confirm",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Next"
+    }
+  ],
+  "frames": [
+    "accounts.google.com/lifecycle/steps/signup/password",
+    "accounts.google.com/_/bscframe",
+    "accounts.google.com/_/bscframe",
+    "www.google.com/recaptcha/enterprise/anchor",
+    "blank",
+    "blank"
+  ]
+}

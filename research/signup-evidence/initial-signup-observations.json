@@ -1,0 +1,4281 @@
+[
+  {
+    "provider": "mega",
+    "requested_url": "https://mega.nz/register",
+    "url": "https://mega.nz/register",
+    "status": 200,
+    "title": "Sign up - MEGA",
+    "text": "MEGA for Business\nV.7.6.3\nHelp Centre\nTerms of Service\nEN\nCreate your free MEGA account\nAlready have an account? Log\u00a0in\nFirst name\nEmail address\nPassword\nBy signing up, I agree that I have read and understand MEGA\u2019s Terms of Service\nSign up\nYou\u2019ll get\n20\u00a0GB free storage\nGet extra storage by inviting your friends and installing our apps\nEnd-to-end encrypted storage\nNo one, not even MEGA can see your data\nSync and backup your devices\nBy installing our apps, you can keep your files and folders, photos and videos safe.\nUpgrade and you\u2019ll get more features\nMEGA VPN with ad-block, MEGA Pass, Object storage and premium cloud features",
+    "fields": [
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Cookie settings"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "EN"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "EN"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Who has access:",
+        "text": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "register-name",
+        "id": "register-firstname",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "register-email",
+        "id": "register-email",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "register-password",
+        "id": "register-password",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Sign up"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Resend email "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "susp-login-name",
+        "id": "",
+        "placeholder": "Your email address",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "susp-login-password",
+        "id": "",
+        "placeholder": "Password",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Next "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "verify-email-set-new-pass1",
+        "id": "",
+        "placeholder": "Enter a strong password",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "verify-email-set-new-pass2",
+        "id": "",
+        "placeholder": "Retype the password",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Finish "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Save settings "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Use saved settings "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Use new settings "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Sign up "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Log\u00a0in "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Done "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " OK "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cookie settings "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Accept cookies "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Upgrade now  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Upgrade now  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Clear all filters"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Name  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Size  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Status  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Time left  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Type  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Pause all  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Cancel all  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Folder name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Create "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Download MEGA app "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Continue with browser "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Continue anyway  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Download MEGA Desktop App  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "megasync_upload",
+        "id": "megasync_upload",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Complete upgrade "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "File"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Format"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[close dialog]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Download "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Save "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Download",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Send to chat",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Share link",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Info",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Delete permanently",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "More\u2026",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[close]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[previous]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[next]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Expand",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[grid view]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Slideshow",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Zoom out",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Zoom in",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Full screen",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[play pause]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[volume]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[speed]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[repeat]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[subtitles]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[settings]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[fullscreen]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[previous]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[play pause]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[next]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "[[settings]]",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Learn more "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Download "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Preview "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Revert "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Delete "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Clear previous versions "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "OK"
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "reset_success_st2_pass",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Close account "
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "feedback-radio",
+        "id": "res5",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "feedback-radio",
+        "id": "res1",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "feedback-radio",
+        "id": "res2",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "feedback-radio",
+        "id": "res3",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "feedback-radio",
+        "id": "res4",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "feedback-radio",
+        "id": "res6",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "feedback-radio",
+        "id": "res7",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Submit "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "dialog-new-folder",
+        "id": "",
+        "placeholder": "Paste file URL",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Copy "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "dialog-new-folder",
+        "id": "",
+        "placeholder": "Folder name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Create "
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "Invitation link password",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Continue "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Generate password "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Copy "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Confirm "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Frequently accessed  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Cloud drive  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Object storage  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Incoming shares  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Chat  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "id": "fm-picker-notagain",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search Cloud drive",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Create folder  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  New group chat  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Cancel  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Paste  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "id": "fm-picker-notagain1",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Copy "
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter a strong password",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "Confirm",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Confirm "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "push-settings-radio",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "push-settings-radio",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "push-settings-radio",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "push-settings-radio",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "push-settings-radio",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Cancel  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Done  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Close "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Agree "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Save your file "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "add-user-dialog-input",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "contact_me",
+        "id": "contact_me",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "feedback-email",
+        "id": "",
+        "placeholder": "email@domain.com",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "send_stats",
+        "id": "send_stats",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Close "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Address 1",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Address 2 (optional)",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "City",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "State or province:",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Postal Code",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "rad1",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "First name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Last name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Credit Card Number",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "CVV",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Purchase "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "First name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Address 1",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "City",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Postcode",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Last name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Address 2 (optional)",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "id": "address-dialog-save-billing-info",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Enter card details "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Continue cancellation "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "subcancel",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "subcancel8",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Don\u2019t cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Skip and cancel subscription "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " OK "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Please enter your voucher code",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Redeem voucher "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Redeem voucher "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Purchase "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Close "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " How it works    "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "ach-invite-dialog-input",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Invitation status "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Send "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Back "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Invite friends "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Upgrade to Pro "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Upload and update   The file will be updated with version history: Learn more      examplefilename.png   700 KB    24 March 2017 10:30    "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Don\u2019t upload   No files will be changed. You will keep the file below:      examplefilename.png   600 KB    20 March 2017 10:30    "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Keep both files   The file you are uploading will be renamed as:        examplefilename.png    "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "duplicates-checkbox",
+        "id": "duplicates-checkbox",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "dialog-voucher",
+        "id": "",
+        "placeholder": "Voucher code",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Redeem "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Resume "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "recover-input1",
+        "id": "recover-input1-di",
+        "placeholder": "Your email address",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Contact Support "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Park account "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "qr-ctn-add",
+        "placeholder": null,
+        "label": null,
+        "text": " Add contact "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Next "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter 6-digit code",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Back "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Next "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Save file "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Enter 6-digit code",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Submit "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "tel",
+        "name": "verify-dialog-phone",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "verify-dialog-code1",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Not now "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Next "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Back "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Confirm "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Close "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "backup_keyinput_2fa",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Copy key "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Download "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Turn on reminders "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " OK "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "First name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Last name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Email address",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Show optional fields    "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Position",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "ID number",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Phone number",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Location",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Copy password "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Import contacts\u2026 "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Add more "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Add "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "First name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Last name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Change email address",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Position",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "ID number",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Phone number",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Location",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Save "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Yes "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " OK "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Add contact "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Add users "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Update "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Pay and reactivate "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " - "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " - "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Copy "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Log\u00a0in "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Sign up "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Not yet "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " I want this "
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "id": "fm-picker-notagain-disscount",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Go to My account "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Try again "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Go to My account "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Go to My account "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Download MEGA Desktop App "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Back "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Next "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Submit report "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " OK "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "stop-backup",
+        "id": "stop-backup-a1",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Change "
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "stop-backup",
+        "id": "stop-backup-a2",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Confirm "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "frFolder",
+        "placeholder": "Select a folder",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Choose folder  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "frTitle",
+        "placeholder": "Example project",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Link settings  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "frShareLink",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Preview  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Set an expiry date",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Stop file request  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "   Preview  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Cancel  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "user-name-input",
+        "id": "",
+        "placeholder": "Username",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search groups",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "groupA",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "    Create group "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "group-name-input",
+        "id": "",
+        "placeholder": "Group name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Create "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search policies",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "policyA",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Back "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Create "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "group-name-input",
+        "id": "",
+        "placeholder": "Group name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search policies",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "policyA",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search users",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "userA",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  Back "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Create "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "key-name-input",
+        "id": "",
+        "placeholder": "Key name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "user",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "user",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "Search users",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Create "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "bucket-access",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "bucket-access",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "radio",
+        "name": "bucket-access",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Cancel "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Update "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Copy "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "bucket-name",
+        "id": "",
+        "placeholder": "Bucket name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "key-name-input",
+        "id": "",
+        "placeholder": "Key name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Download key "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Download key "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Back "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Manage bucket settings "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Do not show again "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Remind me later "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Set up your object storage "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Go to object storage "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "OK"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Upgrade"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Maybe later"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Upgrade to Pro"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Skip "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Start tour "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Close",
+        "text": "  "
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": " Next "
+      }
+    ],
+    "frames": [
+      "https://mega.nz/register",
+      "about:blank"
+    ]
+  },
+  {
+    "provider": "blomp",
+    "requested_url": "https://dashboard.blomp.com/register",
+    "url": "https://dashboard.blomp.com/register",
+    "status": 200,
+    "title": "Blomp Dashboard - Sign Up",
+    "text": "Welcome to Blomp!\nPlease enter your details below to register\n Your password must be at least 12 characters long, and include at least one letter, one number, and one special character (e.g. @, $, !)\nCheck Availability\nI agree to the Terms and Conditions REGISTER\n\u00a0\nDidn't get the verification email?\n\nClick below to resend the email.\n\nRESEND\n\n\u00a9 2026.Blomp.com Storage. Made. Easy.",
+    "fields": [
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "",
+        "id": "baseurl",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "_token",
+        "id": "",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "name",
+        "id": "",
+        "placeholder": "Name",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "email",
+        "id": "",
+        "placeholder": "Email Address",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": "Password",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "password_confirmation",
+        "id": "password-confirm",
+        "placeholder": "Retype Password",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "forum_username",
+        "id": "id_forum_username",
+        "placeholder": "Prefered Forum Username",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "promo_code",
+        "id": "",
+        "placeholder": "Promo Code (Optional)",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "agreement",
+        "id": "agree",
+        "placeholder": "",
+        "label": null,
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "REGISTER"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "\u00d7"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Close"
+      }
+    ],
+    "frames": [
+      "https://dashboard.blomp.com/register",
+      "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LevYoAkAAAAAKfoRrxqAB1Z-ED6ny-IOP6g8QHo&co=aHR0cHM6Ly9kYXNoYm9hcmQuYmxvbXAuY29tOjQ0Mw..&hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz&size=normal&anchor-ms=20000&execute-ms=30000&cb=7gqk8l3io2qv",
+      "about:blank",
+      "about:blank",
+      "https://www.google.com/recaptcha/api2/bframe?hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz&k=6LevYoAkAAAAAKfoRrxqAB1Z-ED6ny-IOP6g8QHo&bft=0dAFcWeA7AuDc0UWl7tmh7bSLnXWLgvOsbBwt3yTSQ3IHcm3MmEWPClkuGhKRDPm7pkXMFLm8U3wYQYxYjEGL8EorTAOxOIAwo7Q"
+    ]
+  },
+  {
+    "provider": "google",
+    "requested_url": "https://accounts.google.com/signup",
+    "url": "https://accounts.google.com/lifecycle/steps/signup/name?dsh=S270332143:1791555894351364&flowEntry=SignUp&flowName=GlifWebSignIn&TL=ADG-GRTjcPLMZdtGm6SHlkQMiGjjKRjxX0MtXNRQG_45rDYjlqbXbhVsc2JOJZrD&continue=https://accounts.google.com/ManageAccount?nc%3D1",
+    "status": 200,
+    "title": "Create your Google Account",
+    "text": "Loading\nCreate a Google Account\nEnter your name\nFirst name\nLast name (optional)\nNext\nEnglish (United States)\nHelp\nPrivacy\nTerms",
+    "fields": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "firstName",
+        "id": "firstName",
+        "placeholder": "",
+        "label": "First name",
+        "text": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "lastName",
+        "id": "lastName",
+        "placeholder": "",
+        "label": "Last name (optional)",
+        "text": null
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": null,
+        "text": "Next"
+      },
+      {
+        "tag": "BUTTON",
+        "type": "button",
+        "name": "",
+        "id": "",
+        "placeholder": null,
+        "label": "Scroll down",
+        "text": ""
+      }
+    ],
+    "frames": [
+      "https://accounts.google.com/lifecycle/steps/signup/name?dsh=S270332143:1791555894351364&flowEntry=SignUp&flowName=GlifWebSignIn&TL=ADG-GRTjcPLMZdtGm6SHlkQMiGjjKRjxX0MtXNRQG_45rDYjlqbXbhVsc2JOJZrD&continue=https://accounts.google.com/ManageAccount?nc%3D1",
+      "https://accounts.google.com/_/bscframe",
+      "https://accounts.google.com/_/bscframe",
+      "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6Lf-_ekqAAAAAO4AXrJISaHw4_bW76NcfwhLN7Is&co=aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tOjQ0Mw..&hl=en&v=nY0xPItgwtlvjEjk2TqdwOQz&size=invisible&badge=none&anchor-ms=20000&execute-ms=30000&cb=m5do4nr0llxp",
+      "about:blank",
+      "about:blank"
+    ]
+  }
+]

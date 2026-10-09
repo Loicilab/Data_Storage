@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data Store</string>
+    <string name="starting">Starting Data Store…</string>
+    <string name="start_failed">Data Store could not start:\n%1$s</string>
+    <string name="downloading">Downloading %1$s…</string>
+    <string name="downloaded">%1$s saved to Downloads</string>
+    <string name="download_failed">Could not download %1$s</string>
+</resources>

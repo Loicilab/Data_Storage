@@ -1,0 +1,87 @@
+{
+  "provider": "drime",
+  "stage": "after-email",
+  "url_path": "https://app.drime.cloud/login",
+  "title": "Sign up - Drime",
+  "text": "Back\nSign up for free\n\nCreate your account and start storing your files.\n\nnoravoss5664@maxxspace.com\nChecking\u2026\n\nAdd a few more characters, or another word.\n\nCreate account\n\nBy signing up, you agree to our Terms of Service and Privacy Policy.\n\n\u00a9 2026 Drime",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Back"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "first_name",
+      "id": ":r2:",
+      "placeholder": "First name",
+      "label": "First name",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "last_name",
+      "id": ":r3:",
+      "placeholder": "Last name",
+      "label": "Last name",
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "password",
+      "id": ":r4:",
+      "placeholder": "Password",
+      "label": "Password",
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "password_confirmation",
+      "id": ":r5:",
+      "placeholder": "Confirm password",
+      "label": "Confirm password",
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Create account"
+    }
+  ],
+  "frames": [
+    "app.drime.cloud/login",
+    "www.google.com/recaptcha/api2/anchor",
+    "blank",
+    "blank"
+  ]
+}

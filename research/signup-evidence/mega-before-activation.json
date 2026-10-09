@@ -1,0 +1,58 @@
+{
+  "provider": "mega",
+  "stage": "before-activation",
+  "url_path": "https://mega.nz/confirm[REDACTED]",
+  "title": "Login - MEGA",
+  "text": "MEGA for Business\nV.7.6.3\nHelp Centre\nTerms of Service\nEN\nLog in to your MEGA account\nYour confirmation link is no longer valid\nYour account may already be activated or you may have cancelled your signup.\nEmail address\nPassword\nForgot password?\nKeep me logged in\nUse this for devices you trust\nLog\u00a0in\n\nDon\u2019t have an account? Sign up\n\nSecurity tip\n\nKeep your account safe by only signing in on devices you know and trust. For best security, avoid logging in from shared or public computers.",
+  "fields": [
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "EN"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "login-name3",
+      "id": "login-name3",
+      "placeholder": "Email address",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "password",
+      "name": "login-password3",
+      "id": "login-password3",
+      "placeholder": "Password",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": "login-check3",
+      "id": "login-check3",
+      "placeholder": "",
+      "label": null,
+      "text": null
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "id": "",
+      "placeholder": null,
+      "label": null,
+      "text": "Log\u00a0in"
+    }
+  ],
+  "frames": [
+    "mega.nz/confirm[REDACTED]",
+    "blank"
+  ]
+}
